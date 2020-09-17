@@ -1,1 +1,1 @@
-# coursera-ml4da
+# Machine-Learning-for-Data-Analysis-coursera
